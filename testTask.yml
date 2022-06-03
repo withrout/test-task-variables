@@ -3,3 +3,5 @@ property-file:
 server:
   servlet:
     context-path: /api
+rates:
+  key: 0e93de1be2d949089c50165c7edf5913
